@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/adminnoobsjs/noobs-applications/issues"
   },
-  "homepage": "https://github.com/adminnoobsjs/noobs-applications#readme"
+  "homepage": "https://github.com/adminnoobsjs/noobs-applications#readme",  
+  "dependencies": {
+    "noobly-core": "*"
+  }
 }
