@@ -21,7 +21,7 @@ The following applications are available for any application to use:
 
 * **service**: The service application enables a call centre application for management of customers issues.
 
-* **wharehouse**: The warehouse application enables the management of a warehouse for ecommerce platforms
+* **warehouse**: The warehouse application enables the management of a warehouse for ecommerce platforms
 ---
 
 ## Installing
