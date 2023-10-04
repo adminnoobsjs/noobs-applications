@@ -16,11 +16,11 @@ applications.models = {};
 // Load the controllers
 applications.controllers = {};
 
-// Load the API routes exposed by the Shnakkydoodle framework
-//applications.routes = ((applications.routes != null) ? applications.routes : require('./routes')(applications));
+// Load the API routes exposed by the Noobly framework
+applications.routes = ((applications.routes != null) ? applications.routes : require('./src/routes')(applications));
 
-// Load the views routes exposed by the Shnakkydoodle framework
-//applications.views = ((applications.views != null) ? applications.views : require('./views')(applications));
+// Load the views routes exposed by the Noobly framework
+applications.views = ((applications.views != null) ? applications.views : require('./src/views')(applications));
 
 /**
  * Initialise the server
