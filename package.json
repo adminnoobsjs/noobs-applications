@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/adminnoobsjs/noobs-applications#readme",  
   "dependencies": {
-    "noobly-core": "*"
+    "noobly-core": "1.0.11"
   }
 }
