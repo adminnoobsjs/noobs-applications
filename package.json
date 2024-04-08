@@ -1,6 +1,6 @@
 {
   "name": "noobs-applications",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/adminnoobsjs/noobs-applications/issues"
   },
-  "homepage": "https://github.com/adminnoobsjs/noobs-applications#readme",  
+  "homepage": "https://github.com/adminnoobsjs/noobs-applications#readme",
   "dependencies": {
     "noobly-core": "1.0.11"
   }
