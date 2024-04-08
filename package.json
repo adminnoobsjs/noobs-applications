@@ -1,5 +1,5 @@
 {
-  "name": "noobs-applications",
+  "name": "noobly-applications",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adminnoobsjs/noobs-applications.git"
+    "url": "git+https://github.com/nooblyjs/noobly-applications.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/adminnoobsjs/noobs-applications/issues"
+    "url": "https://github.com/nooblyjs/noobly-applications/issues"
   },
-  "homepage": "https://github.com/adminnoobsjs/noobs-applications#readme",
+  "homepage": "https://github.com/nooblyjs/noobly-applications#readme",
   "dependencies": {
     "noobly-core": "1.0.11"
   }
