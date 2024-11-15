@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "node ./app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/nooblyjs/noobly-applications#readme",
   "dependencies": {
+    "nodeannotations": "^1.0.3",
     "noobly-core": "1.0.11"
   }
 }
